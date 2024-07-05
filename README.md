@@ -52,7 +52,8 @@ The Rock Paper Scissors Lizard Spock game is an extended version of the classic 
 <li>Follow the prompts to make your choice and see the result.</li>
 </ol>
 
-## Sample Output :
+## Sample Output ➡️:
+
 ![Output](https://github.com/RajeevRanjan5642/rock-paper-scissors-lizard-spock/blob/main/images/output.png)
 
 Feel free to customize the game, add more features, or create a graphical interface if you’d like! Enjoy playing Rock Paper Scissors Lizard Spock! 🎮🖖🤘
