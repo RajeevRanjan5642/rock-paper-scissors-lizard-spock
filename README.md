@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Lizard-Spock Game
+# Rock-Paper-Scissors-Lizard-Spock Game 🎮
 
 ## Overview 🔎:  
 The Rock Paper Scissors Lizard Spock game is an extended version of the classic Rock Paper Scissors game. It adds two more options (Lizard and Spock) to the traditional three (Rock, Paper, and Scissors). The game is based on the popular TV show “The Big Bang Theory.”
