@@ -46,9 +46,9 @@ while user=='Y' or user=='y':
         print("It's a tie!");
     
     elif (userInput==1 and (computerInput==3  or computerInput==4)) or (userInput==2 and (computerInput==1  or computerInput==5)) or (userInput==3 and (computerInput==2  or computerInput==4)) or (userInput==4 and (computerInput==5  or computerInput==2)) or (userInput==5 and (computerInput==3  or computerInput==1)):
-         print("You Won!!");
+         print("You Won 🏆!!");
     
     else:
-        print("Computer Won!!");
+        print("Computer Won 🏆!!");
     
     user = input("Want to play again (Y/N): ");
