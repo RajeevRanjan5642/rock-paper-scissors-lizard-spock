@@ -1,3 +1,5 @@
+![banner](https://github.com/RajeevRanjan5642/rock-paper-scissors-lizard-spock/blob/main/images/banner.png)
+
 # Rock-Paper-Scissors-Lizard-Spock Game 🎮
 
 ## Overview 🔎:  
@@ -17,7 +19,7 @@ The Rock Paper Scissors Lizard Spock game is an extended version of the classic 
 <li>Spock vaporizes Rock</li>
 </ul>
 
-## Implementation 👨🏻‍💻: 
+## Implementation 👨🏻‍💻
 <ol>
 <li>The game prompts the user to choose either Rock, Paper, Scissors, Lizard, or Spock.</li>
 <li>The computer randomly selects one of the options.</li>
@@ -25,7 +27,7 @@ The Rock Paper Scissors Lizard Spock game is an extended version of the classic 
 <li>The game displays the user’s choice, the computer’s choice, and the winner.</li>
 </ol>
 
-## Features ⚙️: 
+## Features ⚙️
 <ul>
 <li>Simple command-line interface</li>
 <li>Randomized computer choice</li>
@@ -41,7 +43,7 @@ The Rock Paper Scissors Lizard Spock game is an extended version of the classic 
 </li>
 </ul>
 
-## How to Play 🎮: 
+## How to Play 🎮
 <ol>
 <li>Clone the repository or download the Python script.</li>
 <li>Open a terminal or command prompt.</li>
@@ -52,7 +54,7 @@ The Rock Paper Scissors Lizard Spock game is an extended version of the classic 
 <li>Follow the prompts to make your choice and see the result.</li>
 </ol>
 
-## Sample Output ➡️:
+## Preview ➡️
 
 ![Output](https://github.com/RajeevRanjan5642/rock-paper-scissors-lizard-spock/blob/main/images/output.png)
 
